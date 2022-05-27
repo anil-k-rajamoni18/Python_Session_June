@@ -1,0 +1,8 @@
+1. Download any Python 3
+ https://www.python.org/downloads/
+
+2. Follow the installation Wizard windows 
+
+3. To check whether Python is installed or not type the following command in CMD
+	python --version
+
