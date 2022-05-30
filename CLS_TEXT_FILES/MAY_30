@@ -14,3 +14,7 @@ NOTE: you can't execute this files.
 	- type : jupyter notebook
 	- it will open juypter notebook in following path.
 
+---------- WHILE PULLING----
+open the gitbash in the original repo floder (one you have downloaded/cloned)
+1. Always check the git status : it should nothing commit
+2. git pull.
