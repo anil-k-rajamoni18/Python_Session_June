@@ -3,7 +3,7 @@
 website : python.org
 
 => to check the version
-
+==> Before checking the version  add the Python installation floder path in the  variables.
 >> python --version (windows)
 >> python3 --version
 
@@ -23,8 +23,8 @@ website : python.org
 
 
 4. Clone the GitHUB
-
--> git clone https://github.com/anil-k-rajamoni18/PYTHON_TUTS.git
+  new repo
+-> https://github.com/anil-k-rajamoni18/Python_Session_June.git
 
 5. Pullling the Changes/CODE:
  -> open the git bash orginal repo floder
